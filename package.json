@@ -1,0 +1,29 @@
+{
+  "name": "Video-Calling",
+  "version": "1.0.0",
+  "description": "Web app for video calling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlightVin/Video-Calling.git"
+  },
+  "keywords": [],
+  "author": "VIneeth Bhat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FlightVin/Video-Calling/issues"
+  },
+  "homepage": "https://github.com/FlightVin/Video-Calling#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "socket.io": "^4.5.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
